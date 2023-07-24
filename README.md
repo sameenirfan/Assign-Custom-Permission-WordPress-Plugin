@@ -5,7 +5,7 @@
 **Description:** This is a custom WordPress plugin that allows contributors to add, update, and publish their own pages.  
 **Version:** 1.0.0  
 **Author:** Sameen Irfan  
-**Author URI:** https://example.com  
+**Author URI:** https://github.com/sameenirfan
 **License:** GPL v2 or later  
 **License URI:** https://www.gnu.org/licenses/gpl-2.0.html  
 **Text Domain:** assign-custom-permission  
